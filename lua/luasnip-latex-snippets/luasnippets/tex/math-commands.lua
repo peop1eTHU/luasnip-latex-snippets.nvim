@@ -248,6 +248,8 @@ local symbol_specs = {
 	-- operators
 	["!="] = { context = { name = "!=" }, command = [[\neq]] },
 	["<="] = { context = { name = "≤" }, command = [[\leq]] },
+  ["<|"] = { context = { name = "<|"}, command = [[\triangleleft]] },
+  ["|>"] = { context = { name = "|>"}, command = [[\triangleright]] },
 	[">="] = { context = { name = "≥" }, command = [[\geq]] },
 	["<<"] = { context = { name = "<<" }, command = [[\ll]] },
 	[">>"] = { context = { name = ">>" }, command = [[\gg]] },
