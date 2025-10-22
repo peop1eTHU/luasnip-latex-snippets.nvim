@@ -228,7 +228,7 @@ local greek_specs = {
     tau = { context = { name = "τ" }, command = [[\tau]] },
 	ups = { context = { name = "υ" }, command = [[\upsilon]] },
     phi = { context = { name = "φ" }, command = [[\phi]] },
-    vphi = { context = { name = "φ" }, command = [[\varphi]] },
+    vp = { context = { name = "φ" }, command = [[\varphi]] },
     chi = { context = { name = "χ" }, command = [[\chi]] },
 	psi = { context = { name = "Ψ" }, command = [[\psi]] },
 	omega = { context = { name = "ω" }, command = [[\omega]] },
