@@ -270,6 +270,7 @@ local symbol_specs = {
 	QQ = { context = { name = "ℚ" }, command = [[\mathbb{Q}]] },
 	RR = { context = { name = "ℝ" }, command = [[\mathbb{R}]] },
 	CC = { context = { name = "ℂ" }, command = [[\mathbb{C}]] },
+	FF = { context = { name = "ℂ" }, command = [[\mathbb{F}]] },
 	OO = { context = { name = "∅" }, command = [[\emptyset]] },
 	pwr = { context = { name = "P" }, command = [[\powerset]] },
 	cc = { context = { name = "⊂" }, command = [[\subset]] },
